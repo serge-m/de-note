@@ -53,6 +53,13 @@ Tags:
     verantwortlich sein für die Abteilung
     
     wichtig sein für die Firma
+    
+*   begeistert sein von dem FuBballspiel
+    enttäuscht sein von dem Ergebnis (разочарованный )
+    überzeugt sein von der eigenen Leistung (  убеждённый; стойкий)
+
+
+
 
 
 
