@@ -39,6 +39,12 @@ Tags:
 
     eifersüchtig sein auf die Exfreundin (ревнивый )
 
+* beliebt sein __bei__ den Fans
+
+
+* nett sein zu dem Nachbarn
+
+    freundlich sein zu allen Kollegen
 
 
 
