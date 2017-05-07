@@ -46,7 +46,13 @@ Tags:
 
     freundlich sein zu allen Kollegen
 
+* dankbar sein für die Hilfe
 
+    nutzlich/schadlich sein für die Pflanzen
+    
+    verantwortlich sein für die Abteilung
+    
+    wichtig sein für die Firma
 
 
 
