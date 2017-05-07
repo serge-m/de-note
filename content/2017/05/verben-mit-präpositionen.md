@@ -5,58 +5,25 @@ Slug: verben-mit-praepositionen
 Tags: 
 
 
-Erganzen Sie die Prapositionen und den Kasus.
-»
-on/+ Dotiv
-4.
-interessiert sein cm/ einem Bild
-beliebt sein
-1.
-den Fans
-5.
-befreundet sein
-zufrieden sein
-nett sein
-freundlich sein
-dem Chef
-der Arbeit
-dem Nachbarn
-alien Kollegen
-6.
-2.
-froh sein
-gliicklich sein
-traurigsein
-erstauntsein
-dankbarsein
-nutzlich/schadlich sein
-verantwortlich sein
-das Ergebnis
-den Besuch
-die Nachricht
-die gute Note
-wichtigsein
-dieHilfe
-die Pflanzen
-die Abteilung
-die Firma
-7.
-3.
-bosesein
-neidisch sein
-neugierig sein
-stolzsein
-wutend sein
-eifersuchtig sein
-begeistert sein
-enttauscht sein
-uberzeugtsein
-den Freund
-den Erfolg
-den neuen Film
-denSohn
-den Chef
-die Exfreundin
-dem FuBballspiel
-dem Ergebnis
-der
+* an + Dativ 
+
+  interessiert sein **an** einem Bild 
+
+* mit + Dativ  
+  
+  befreundet sein mit dem Chef 
+  
+  zufrieden sein mit der Arbeit 
+
+* über + Akk
+
+  froh sein **über** das Ergebnis
+  
+  glücklich sein **über** den Besuch
+  
+  traurig sein **über** die Nachricht
+  
+  erstaunt sein **über** die gute Note
+
+
+
