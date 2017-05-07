@@ -24,6 +24,22 @@ Tags:
   traurig sein **über** die Nachricht
   
   erstaunt sein **über** die gute Note
+* auf + Akk
+
+  böse sein auf den Freund (злиться)
+
+  neidisch sein auf den Erfolg (завистливый )
+
+  neugierig sein auf den neuen Film (любопытный )
+
+  stolz sein auf den Sohn (гордый)
+
+  wütend sein auf den Chef (яростный)
+
+  eifersüchtig sein auf die Exfreundin (ревнивый )
+
+
+
 
 
 
