@@ -11,7 +11,7 @@ Tags:
 
 * mit + Dativ  
   
-    befreundet sein mit dem Chef 
+    befreundet sein mit dem Chef ( дружественный )
 
     zufrieden sein mit der Arbeit 
 
@@ -23,7 +23,7 @@ Tags:
 
     traurig sein **über** die Nachricht
 
-    erstaunt sein **über** die gute Note
+    erstaunt sein **über** die gute Note (удивлённый)
     
 * auf + Akk
 
@@ -48,7 +48,7 @@ Tags:
 
 * dankbar sein für die Hilfe
 
-    nutzlich/schadlich sein für die Pflanzen
+    nutzlich/schädlich sein __für__ die Pflanzen
     
     verantwortlich sein für die Abteilung
     
