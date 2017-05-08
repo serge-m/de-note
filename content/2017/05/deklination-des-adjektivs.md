@@ -1,7 +1,7 @@
 Title: Deklination des Adjektivs
 Author: sergem
-Date: 2017-05-07 07:20:00
-Slug: verben-mit-praepositionen
+Date: 2017-05-08 22:20:00
+Slug: deklination-des-adjektivs
 Tags: 
 
 
