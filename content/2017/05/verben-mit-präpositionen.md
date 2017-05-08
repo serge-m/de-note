@@ -17,9 +17,9 @@ Tags:
 
 * über + Akk
 
-    froh sein **über** das Ergebnis
+    froh sein **über** das Ergebnis (весёлый)
 
-    glücklich sein **über** den Besuch
+    glücklich sein **über** den Besuch (счастливый; благополучный; удачный )
 
     traurig sein **über** die Nachricht
 
