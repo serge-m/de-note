@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'sergem'
 SITENAME = 'deutsch notes'
-SITEURL = ''
+SITEURL = 'https://de-note.herokuapp.com/'
 
 THEME='pelican-bootstrap3'
 
@@ -53,7 +53,7 @@ DISPLAY_TAGS_INLINE=True
 
 # Following items are often useful when publishing
 #DISQUS_SITENAME = "serge-m-github-io"
-#GOOGLE_ANALYTICS="UA-40853494-2"
+GOOGLE_ANALYTICS="UA-98763572-1"
 
 DISPLAY_ARTICLE_INFO_ON_INDEX=True
 
