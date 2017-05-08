@@ -105,7 +105,7 @@ Tags:
 <td>ein <strong>kleines</strong> Kind</td>
 </tr>
 <tr>
-<td>Aklr.</td>
+<td>Akk.</td>
 <td>einen jungen Mann</td>
 <td>eine <strong>junge</strong> Frau</td>
 <td>ein <strong>kleines</strong> Kind</td>
@@ -135,7 +135,7 @@ Tags:
 <td>kleine Kinder</td>
 </tr>
 <tr>
-<td>Aklr.</td>
+<td>Akk.</td>
 <td>junge Männer</td>
 <td>junge Frauen</td>
 <td>kleine Kinder</td>
