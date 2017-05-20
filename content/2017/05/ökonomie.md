@@ -8,3 +8,6 @@ Tags:
 
 
 Пособие [Немецкий язык для экономистов](https://www.docme.ru/doc/1077324/165.nemeckij-yazyk-dlya-e-konomistov)
+
+
+[Пара полезных постов](http://lingvotutor.ru/tag/wirtschaft)
