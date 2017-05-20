@@ -1,6 +1,6 @@
 Title: Экономика и финансы
 Author: sergem
-Date: 2017-05-08 22:20:00
+Date: 2017-05-20 22:20:00
 Slug: ökonomie
 Tags: 
 
