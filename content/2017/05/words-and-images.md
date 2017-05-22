@@ -21,7 +21,7 @@ den Täter bei der Polizei angeben — донести полиции на пре
 
 
 ### Beziehung
-<img alt="Weg" src="{filename}/2017/05/images/beziehung.jpg" width="100"
+<img alt="Beziehung" src="{filename}/2017/05/images/beziehung.jpg" width="100">
 
 
 images sources: [1](https://pixabay.com/en/away-field-lane-landscape-nature-515102/)
